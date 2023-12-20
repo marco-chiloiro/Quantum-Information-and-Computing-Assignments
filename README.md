@@ -7,3 +7,4 @@ This repository compiles all completed assignments from the Quantum Information 
   - **Assignment 4**: One-dimension, time-independent quantum harmonic oscillator.
   - **Assignment 5**: Time evolution of one-dimension, time-dependent quantum harmonic oscillator.
   - **Assignment 6**: N-body system state represantation, density matrix, reduced density matrix.
+  - **Assignment 7**: Transverse-field Ising model.
