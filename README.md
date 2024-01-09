@@ -8,3 +8,4 @@ This repository compiles all completed assignments from the Quantum Information 
   - **Assignment 5**: Time evolution of one-dimension, time-dependent quantum harmonic oscillator.
   - **Assignment 6**: N-body system state represantation, density matrix, reduced density matrix.
   - **Assignment 7**: Transverse-field Ising model.
+  - **Assignment 8**: Real Space Renormalization Group (RSRG) and Infinite Density Matrix Renormalization Group (IDMRG)
